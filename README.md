@@ -1,5 +1,5 @@
-# Speech-to-Recognition-Project
-Speech To Recognition
+# Speech-To-Text-Transcription-Project
+Speech To Text Transcription
 
 The Speech to Text Transcriber is a Python-based application that utilizes the tkinter library for the graphical user interface (GUI) and the speech_recognition module for speech processing. Its primary purpose is to capture audio input from the user, convert spoken words into text, and display the transcription in an interactive text area. Additionally, it provides an option to save the transcription as a text file, allowing users to retain their converted speech for future reference.
 Key Features
